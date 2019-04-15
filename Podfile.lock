@@ -1,0 +1,58 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - EDStarRating (1.1)
+  - OCMapper (2.1)
+  - PFNavigationDropdownMenu (0.1.1)
+  - Realm (3.14.0):
+    - Realm/Headers (= 3.14.0)
+  - Realm/Headers (3.14.0)
+  - SDWebImage (5.0.0-beta6):
+    - SDWebImage/Core (= 5.0.0-beta6)
+  - SDWebImage/Core (5.0.0-beta6)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - EDStarRating (~> 1.1)
+  - OCMapper (~> 2.1)
+  - PFNavigationDropdownMenu (~> 0.1)
+  - Realm (~> 3.14)
+  - SDWebImage (= 5.0.0-beta6)
+  - youtube-ios-player-helper (~> 0.1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - EDStarRating
+    - OCMapper
+    - PFNavigationDropdownMenu
+    - Realm
+    - SDWebImage
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  EDStarRating: a41a6440a945020745d0e9ff8ada7d1afa952114
+  OCMapper: fa22e7b51de7cc38e66b993037076d28a0f31b29
+  PFNavigationDropdownMenu: 135e0f460958407661cc95e201223c1fad79f543
+  Realm: 221b25919bb5a010a3c597d707f8df3492dcd93a
+  SDWebImage: 2840a50a41156efccf460df67218b32029177897
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: 45648ebe3e6858e17da6e64ba098c5364ab8e24f
+
+COCOAPODS: 1.6.1
